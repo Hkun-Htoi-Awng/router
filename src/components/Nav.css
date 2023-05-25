@@ -1,0 +1,14 @@
+.NavContainer>ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+}
+.active{
+    color: yellowgreen;
+}
